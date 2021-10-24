@@ -1,3 +1,5 @@
 # EECS-1710-Labs
 
 Lab 1: This code takes what we learned and adds my own part to it. I created a rectangle as big as the screen that is black and has the opacity of 5 so it adds fade affect to the circle. Also when the screen is filled up and the user wants to reset, all they have to do is press a key and it will go back to being a blank purple screen. This is an improvement from the lectures because it is aesthetically pleasing and also gives the user the ability to restart if they wanna try a different way of using the circles.  
+
+Lab 2: This code is a rocket who seems to be stuck in a time loop and is never able to escape the earth's atmosphere. The code does repeat the same thing over and over again, and the way I can improve it is by adding a different background everytime it reaches the end of the screen. I used an image from the internet to make the space background. I also used 2 png files. One for the rocket, and another one for the asteroids. The asteroids always appear at a different x axis each time. Both rocket and asteroids, return back to the start once they reach the other side of the screen, creating a loop effect.  
