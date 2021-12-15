@@ -9,3 +9,7 @@ Lab 3: This code creates a clock that changes through out the day. For the desig
 Project 1: This uses arrays and classes to create an environment of ants running around underground. There is a bee running around with them, and whenever it gets close to the ants they shrivel up to hide from it and then run away. There are also 2 pieces of food that spawn and whenever an ant eats it, it grows in size. However, if they eat more than one piece they die.
 
 Midterm : It uses a cannon that shoots out a projectile to hit the butterfly. The goal is to get to 10 points and if you hit 3 strikes you are out. The butter fly moves around in a weird ecstatic path.  You press space to shoot and must time when to click it. 
+
+Lab 4: Using PShapes to create the letters A, B, and C. Using both the PShapes from the lectures and the loadPixels, i was able to create this piece of art using the 3 letter. THey all rotate leaving behind a bluf effect and create this abstract art piece.
+
+Lab 5: By using your voice you are able to change the drawing on your screen. It starts off as a black screen but then if you yell into ur mic it will draw circles using the same effect that was used in my exercise 1, you can draw these circles for as long as you can yell, but once you stop, the screen will reset to the black screen. 
