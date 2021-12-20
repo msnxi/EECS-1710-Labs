@@ -7,7 +7,7 @@ class Menu {
   //Constructor 
   Menu() {
    
-   menuimg = loadImage("main_menu.png"); //https://www.reddit.com/r/PixelArt/comments/9llrwq/oc_octobit_day_5_6color_tundra/
+   menuimg = loadImage("main_menu.png"); 
    menuimg.resize(width, height);
    imageMode(CENTER);
    
